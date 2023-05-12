@@ -1,6 +1,7 @@
 # UW Embeddings
 
-Wektory dla języka polskiego (_vectors.tsv_ i _wyrazy.txt_ można pobrać z [tej strony](http://mozart.ipipan.waw.pl/~grzewo/))
+Vectors for polish language are here (_vectors.tsv_ i _wyrazy.txt_ można pobrać z [tej strony](http://mozart.ipipan.waw.pl/~grzewo/))
+Vector for english can be obtained directly from spacy.
 
 Kolejność wykonywania zadań:
 1. [Tensorflow Projector](https://projector.tensorflow.org/) (ENG)
