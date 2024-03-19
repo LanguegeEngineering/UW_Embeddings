@@ -9,3 +9,4 @@ Order of tasks:
 3. TF-IDF Clusters
 4. Word2Vec
 5. word_embeddings
+6. Streamlit_app
